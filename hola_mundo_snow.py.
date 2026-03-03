@@ -1,0 +1,12 @@
+# --- NÚCLEO DE LA NUBE BIOGENIO ---
+# Propietario: Luis (Snow Corporation)
+# Propósito: Saludo inicial del sistema
+
+def saludo_inicial():
+    mensaje = "Hola Mundo. El sistema BioGenio está en línea."
+    print(mensaje)
+    print("Iniciando protocolos de seguridad 5G Satelital...")
+    print("Conectando con LsSnow SAT... [OK]")
+
+if __name__ == "__main__":
+    saludo_inicial()
